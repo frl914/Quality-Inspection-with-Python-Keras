@@ -1,1 +1,1 @@
-# Quality-Inspection-by-Image-Detection
+# Quality-Inspection-with_Python
