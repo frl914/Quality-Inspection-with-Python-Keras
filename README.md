@@ -1,3 +1,4 @@
+![Quality](https://user-images.githubusercontent.com/42385621/129796188-26893f65-0e29-4261-a940-4d7cf13728be.png)
 # Quality-Inspection-with-Python
 
 ### Mode to classify parts as "defective" or "ok" with Python.
